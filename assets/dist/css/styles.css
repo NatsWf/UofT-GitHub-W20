@@ -1,0 +1,83 @@
+body {
+    font-family: 'Merriweather', serif;
+}
+
+h1 {
+    text-align: center;
+    font-size: 1.5rem;
+    padding: 30px 0;
+}
+
+h2 {
+    font-size: 1.3rem;
+    padding: 30px 0;
+}
+
+p {
+    margin-bottom: 30px;
+}
+
+a,
+a:hover,
+a:visited,
+a:active {
+    color: inherit;
+    text-decoration: underline;
+}
+
+ul,
+ol {
+    margin-bottom: 30px;
+}
+
+li {
+    margin-bottom: 5px;
+}
+
+img {
+    max-width: 100%;
+    margin-bottom: 30px;
+}
+
+.logo img {
+    width: 100%;
+    margin-top: 20px;
+    max-width: 200px;
+}
+
+nav a {
+    text-decoration: none;
+}
+
+.
+
+.title {
+    text-align: center;
+    margin-bottom: 60px;
+}
+
+.title p {
+    max-width: 760px;
+    margin: 0 auto 30px auto;
+}
+
+.bg-light {
+    background-color: transparent !important;
+}
+
+.sticky-top {
+    padding-top: 20px;
+}
+
+.sticky-top a {
+    text-decoration: none;
+}
+
+.card {
+    margin-bottom: 30px;
+}
+
+.thank-you {
+    text-align: center;
+    margin: 60px 0;
+}
